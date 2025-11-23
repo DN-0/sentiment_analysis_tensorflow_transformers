@@ -18,7 +18,7 @@ The goal is to predict sentiment on a 5-class scale:
 | 3 | Somewhat Positive |
 | 4 | Positive |
 
-The model is fine-tuned using TensorFlow + Hugging Face Transformers.
+The model is fine-tuned using TensorFlow + Transformers.
 
 ---
 
